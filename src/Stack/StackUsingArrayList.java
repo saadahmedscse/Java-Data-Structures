@@ -6,7 +6,7 @@ public class StackUsingArrayList {
 
     /*
      * Created by Saad Ahmed on 26-March, 2022
-     * Making a Stack Class using Linked List functionalities
+     * Making a Stack Class using ArrayList functionalities
      * */
 
     public static class Stack{
