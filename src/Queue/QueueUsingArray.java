@@ -2,6 +2,11 @@ package Queue;
 
 public class QueueUsingArray {
 
+    /*
+     * Created by Saad Ahmed on 27-March, 2022
+     * Making a Queue Class using Array
+     * */
+
     public static class Queue{
         int[] array;
         int size;
