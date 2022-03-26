@@ -4,7 +4,7 @@ public class StackUsingLinkedList {
 
     /*
     * Created by Saad Ahmed on 26-March, 2022
-    * Making an Stack Class using Linked List functionalities
+    * Making a Stack Class using Linked List functionalities
     * */
 
     public static class Node {
