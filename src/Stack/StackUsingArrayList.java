@@ -4,6 +4,11 @@ import java.util.ArrayList;
 
 public class StackUsingArrayList {
 
+    /*
+     * Created by Saad Ahmed on 26-March, 2022
+     * Making a Stack Class using Linked List functionalities
+     * */
+
     public static class Stack{
         private static final ArrayList<Integer> list = new ArrayList<>();
 
